@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\UnityProject\\Introduction to physics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\capsuleresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capsuleresize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\cubemoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubemoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\roration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\cuberoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuberoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\shperemoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shperemoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\resizing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resizing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CubeMoving.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\CubeMoving.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeMoving.cs",
-              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\CubeMoving.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CubeMoving.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:14:34.266Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CapsuleResize.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\CapsuleResize.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CapsuleResize.cs",
-              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\CapsuleResize.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CapsuleResize.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Resizing.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Resizing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Resizing.cs",
+              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Resizing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Resizing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:37:12.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CubeRoration.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\CubeRoration.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeRoration.cs",
-              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\CubeRoration.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CubeRoration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAEAAAA",
+              "DocumentIndex": 1,
+              "Title": "Roration.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Roration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Roration.cs",
+              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Roration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Roration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:31:46.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShpereMoving.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\ShpereMoving.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShpereMoving.cs",
-              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\ShpereMoving.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShpereMoving.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAIAAAA",
+              "DocumentIndex": 0,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Moving.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moving.cs",
+              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Moving.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moving.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:22:20.794Z",
               "EditorCaption": ""
