@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\UnityProject\\Introduction to physics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\changer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\rotationer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotationer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\resizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\rotationer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotationer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Changer.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Changer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Changer.cs",
+              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Changer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Changer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:02:35.153Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,33 +49,33 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Resizer.cs",
               "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Resizer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Resizer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:37:12.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Rotationer.cs",
               "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Rotationer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Rotationer.cs",
               "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Rotationer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Rotationer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:31:46.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mover.cs",
               "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Mover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mover.cs",
               "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Mover.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mover.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:22:20.794Z",
               "EditorCaption": ""

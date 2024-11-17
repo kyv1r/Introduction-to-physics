@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\Changer.cs" />
     <Compile Include="Assets\Scripts\Rotationer.cs" />
     <Compile Include="Assets\Scripts\Resizer.cs" />
   </ItemGroup>

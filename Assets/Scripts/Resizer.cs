@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using UnityEditor.Rendering;
 using UnityEngine;
 
-public class Resizer : MonoBehaviour
+public class Resizer : Changer
 {
-    [SerializeField] private float _speed;
-
     private void Update()
     {
         transform.localScale += Vector3.one *_speed * Time.deltaTime;
