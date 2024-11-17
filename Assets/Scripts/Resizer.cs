@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEditor.Rendering;
 using UnityEngine;
 
-public class Resizer : VariableKeeper
+public class Resizer : TransformController
 {
     private void Update()
     {
-        transform.localScale += Vector3.one *_speed * Time.deltaTime;
+        Resize();
     }
 }

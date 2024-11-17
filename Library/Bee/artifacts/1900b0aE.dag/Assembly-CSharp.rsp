@@ -358,7 +358,7 @@
 "Assets/Scripts/Mover.cs"
 "Assets/Scripts/Resizer.cs"
 "Assets/Scripts/Rotationer.cs"
-"Assets/Scripts/VariableKeeper.cs"
+"Assets/Scripts/TransformController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
