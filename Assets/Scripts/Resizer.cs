@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor.Rendering;
 using UnityEngine;
 
-public class Resizer : Changer
+public class Resizer : VariableKeeper
 {
     private void Update()
     {

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rotationer : Changer
+public class Rotationer : VariableKeeper
 {
     private void Update()
     {

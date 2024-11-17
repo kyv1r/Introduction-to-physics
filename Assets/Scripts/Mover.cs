@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Mover : Changer
+public class Mover : VariableKeeper
 {
     private void Update()
     {

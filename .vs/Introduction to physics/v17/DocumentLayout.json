@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\UnityProject\\Introduction to physics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\changer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\variablekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\variablekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|d:\\unityproject\\introduction to physics\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|D:\\UnityProject\\Introduction to physics\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A455661-5936-0308-13D2-07593A88426C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,12 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Changer.cs",
-              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Changer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Changer.cs",
-              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\Changer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Changer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Title": "VariableKeeper.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\VariableKeeper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VariableKeeper.cs",
+              "ToolTip": "D:\\UnityProject\\Introduction to physics\\Assets\\Scripts\\VariableKeeper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VariableKeeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T15:02:35.153Z",
               "EditorCaption": ""
