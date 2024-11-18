@@ -2,10 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rotationer : TransformController
+public class Rotationer : MonoBehaviour
 {
+    [SerializeField] private float _rotationSpeed;
+
     private void Update()
     {
-        Rotation();
+        transform.RotateAround(transform.position, transform.up, _rotationSpeed * Time.deltaTime);
     }
 }
